@@ -1,0 +1,17 @@
+{
+  "name": "dai_tp4",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Eitan Koze y Flor Sirotinsky",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "i": "^0.3.7"
+  },
+  "devDependencies": {}
+}

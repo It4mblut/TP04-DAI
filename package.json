@@ -5,13 +5,13 @@
   "keywords": [],
   "license": "ISC",
   "author": "Eitan Koze y Flor Sirotinsky",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "i": "^0.3.7"
+    "express": "^4.18.2"
   },
   "devDependencies": {}
 }
